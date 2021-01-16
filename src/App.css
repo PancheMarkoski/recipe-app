@@ -4,9 +4,12 @@
   text-align: center;
   align-items: center;
   height: 100vh;
+  padding-bottom: 40px;
 }
 
 .AppLeftSide {
   background-color: #bd5858;
   height: 100%;
+  position: fixed;
+  width: 25%;
 }
