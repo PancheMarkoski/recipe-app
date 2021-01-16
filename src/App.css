@@ -1,0 +1,12 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.AppLeftSide {
+  background-color: #bd5858;
+  height: 100%;
+}

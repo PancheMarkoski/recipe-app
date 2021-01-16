@@ -1,0 +1,27 @@
+.RecipeItem {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 4%;
+  border: 1px solid;
+  margin: 2% 1%;
+}
+.RecipeItem img {
+  width: 20%;
+  border-radius: 30px;
+  display: flex;
+}
+
+.RecipeItem p {
+  font-size: 13px;
+}
+
+.RecipeItem:hover {
+  background-color: #2195f336;
+  transition: ease 0.5s;
+  cursor: pointer;
+}
+
+.Title {
+  padding-left: 2%;
+}

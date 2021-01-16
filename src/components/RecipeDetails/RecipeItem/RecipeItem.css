@@ -1,0 +1,12 @@
+.RecipeItem {
+  display: flex;
+  justify-content: space-around;
+}
+
+.RecipeItem li {
+  list-style: none;
+}
+
+.RecipeItem h3 {
+  padding: 2% 0;
+}
